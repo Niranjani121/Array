@@ -20,5 +20,6 @@ public class LargeElement{
              }
         }
         System.out.println("Largest Element:"+largest);
+        sc.close();
     }
 }
